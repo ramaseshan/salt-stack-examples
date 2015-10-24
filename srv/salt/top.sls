@@ -1,0 +1,3 @@
+base:
+  '*':
+    - sls/demo3
