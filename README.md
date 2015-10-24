@@ -21,6 +21,8 @@ A repo of Salt stack examples, I will be using over various talks.
 16. But like a college grad, dont mix up everything and put everything in one folder. It might work, but not the best practise. Keep things neatly organized. like rpms in packages folder, tars in tars folder, shell files in shell folder. In that way, your code becomes more organized and understandable.
 17. If you have any questions, as in the bangpypers mailing list (if you think that question would be helpful to a few more people than you alone) or email me @ram.seshan.cs@gmail.com / ramaseshanmukund@gmail.com (if you think its just your personal issue and not generally interesting to a few more people).
 
-Anyways, dont miss the fun with a pinch of salt.
+Also, please do note that, I am equally new to salt stack as such, so there is deep learning curve associated with me too. So excuse my brevity ...!
+
+But dont let that spoil your fun with a pinch of salt.
 
 Always remember, Tequila is much better with a pinch of salt and a slice of lemon :-D
