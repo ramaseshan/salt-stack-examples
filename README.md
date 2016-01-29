@@ -1,4 +1,6 @@
 # salt-stack-examples
+## This repo will not be updated. Please refer https://gitlab.com/voidspacexyz/Salt-Stack-Demo
+
 A repo of Salt stack examples, I will be using over various talks.
 
 ## How to use this repo
